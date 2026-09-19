@@ -1,11 +1,11 @@
 # Cychic-rotary
-Hi, I’m Grandson 👋
-
 “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”
+
+Hi, I’m Grandson 👋
 
 I’m a passionate Web dev and Telecommunication Engineer, focused on building clean, meaningful, and high-impact digital experiences. I love turning ideas into products, solving complex problems, and constantly learning new technologies.
 
-(https://immunetechsolutions.com/ghpvc/?immunetechsolutions=immunetechsolutions&label=PROFILE+VIEWS&color=brightgreen) ![Followers](https://img.shields.io/github/followers/immunetechsolutions?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/immunetechsolutions?style=social)
+ ![Followers](https://img.shields.io/github/followers/immunetechsolutions?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/immunetechsolutions?style=social)
 
 About Me
 
