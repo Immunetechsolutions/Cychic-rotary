@@ -1,5 +1,6 @@
 # Cychic-rotary
 Hi, I’m Grandson 👋
+
 “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”
 
 I’m a passionate Web dev and Telecommunication Engineer, focused on building clean, meaningful, and high-impact digital experiences. I love turning ideas into products, solving complex problems, and constantly learning new technologies.
@@ -7,10 +8,12 @@ I’m a passionate Web dev and Telecommunication Engineer, focused on building c
 ![Profile Views](https://immunetechsolutions.com/ghpvc/?immunetechsolutions=immunetechsolutions&label=PROFILE+VIEWS&color=brightgreen) ![Followers](https://img.shields.io/github/followers/immunetechsolutions?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/immunetechsolutions?style=social)
 
 About Me
+
 💡 I enjoy building software that is useful, elegant, and scalable
 🚀 Interested in web development, AI, cloud, cybersecurity, fiber, broadband, FTTH and access point.
 🧠 Always learning, experimenting, and refining ideas
 🎯 Goal: create products and experiences that solve real problems
+
 Tech Stack
 Languages
 JavaScript
@@ -23,6 +26,7 @@ PHP
 Rust
 C
 Kotlin
+
 Tools & Frameworks
 React
 Node.js
@@ -32,6 +36,7 @@ Tailwind CSS
 Docker
 Git / GitHub
 Flutter
+
 Preferred Areas
 Full-Stack Development
 Frontend Engineering
@@ -42,6 +47,7 @@ DevOps / Cloud
 Mobile and Cross-Platform Frameworks
 Cybersecurity
 Systems Programming
+
 Current Focus
 Building [project or product]
 Learning [technology skill]
@@ -71,8 +77,8 @@ GitHub Stats
 
 Let’s Connect
 🌐 Portfolio: [your website]
-💼 LinkedIn: Geo
-<img width="149" height="148" alt="image" src="https://github.com/user-attachments/assets/7f69401a-8b18-41c5-8919-08da1422869b" />instagram / grandsonhere
+💼 LinkedIn: George Otieno
+Instagram / grandsonhere
 🐦 Twitter / X: Grandsonhere
 📧 Email: owilijunior21@gmail.com
 🧩 GitHub: immunetechsolutions
