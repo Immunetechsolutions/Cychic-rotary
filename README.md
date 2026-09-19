@@ -10,8 +10,11 @@ I’m a passionate Web dev and Telecommunication Engineer, focused on building c
 About Me
 
 💡 I enjoy building software that is useful, elegant, and scalable
+
 🚀 Interested in web development, AI, cloud, cybersecurity, fiber, broadband, FTTH and access point.
+
 🧠 Always learning, experimenting, and refining ideas
+
 🎯 Goal: create products and experiences that solve real problems
 
 Tech Stack
@@ -93,8 +96,13 @@ Philosophy
 I believe great work is built with:
 
 clarity
+
 discipline
+
 curiosity
+
 continuous improvement
+
 empathy for the user
+
 If you’re passionate about building useful things and learning constantly, let’s connect.
