@@ -5,7 +5,7 @@ Hi, I’m Grandson 👋
 
 I’m a passionate Web dev and Telecommunication Engineer, focused on building clean, meaningful, and high-impact digital experiences. I love turning ideas into products, solving complex problems, and constantly learning new technologies.
 
-![Profile Views](https://immunetechsolutions.com/ghpvc/?immunetechsolutions=immunetechsolutions&label=PROFILE+VIEWS&color=brightgreen) ![Followers](https://img.shields.io/github/followers/immunetechsolutions?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/immunetechsolutions?style=social)
+(https://immunetechsolutions.com/ghpvc/?immunetechsolutions=immunetechsolutions&label=PROFILE+VIEWS&color=brightgreen) ![Followers](https://img.shields.io/github/followers/immunetechsolutions?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/immunetechsolutions?style=social)
 
 About Me
 
@@ -76,12 +76,19 @@ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight)
 
 Let’s Connect
-🌐 Portfolio: [your website]
+
+🌐 Portfolio: 
+
 💼 LinkedIn: George Otieno
+
 Instagram / grandsonhere
+
 🐦 Twitter / X: Grandsonhere
+
 📧 Email: owilijunior21@gmail.com
+
 🧩 GitHub: immunetechsolutions
+
 Philosophy
 I believe great work is built with:
 
